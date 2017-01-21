@@ -60,3 +60,5 @@ GravColourWave/Intermediate/*
 
 # Cache files for the editor to use
 GravColourWave/DerivedDataCache/*
+GravColourWave/Saved/Config/Windows/Editor.ini
+GravColourWave/Saved/Config/Windows/Editor.ini
